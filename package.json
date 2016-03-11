@@ -1,0 +1,34 @@
+{
+  "name": "alphanumeric.pw",
+  "version": "1.0.0",
+  "description": "The website of a Lobster",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-add-src": "^0.2.0",
+    "gulp-bower": "^0.0.10",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-minify": "0.0.5",
+    "gulp-notify": "^2.2.0",
+    "gulp-order": "^1.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-uglify": "^1.4.1",
+    "gulp-util": "^3.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalut/jalut.github.io.git"
+  },
+  "keywords": [
+    "jalut"
+  ],
+  "author": "Brent, Matt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jalut/jalut.github.io/issues"
+  },
+  "homepage": "https://github.com/jalut/jalut.github.io#readme"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "alphanumeric.pw",
+  "homepage": "http://alphanumeric.pw/",
+  "authors": [
+    "Brent",
+    "Matt"
+  ],
+  "description": "The website of a Lobster",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "jalut"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4-dev",
+    "font-awesome": "^4.5.0"
+  }
+}
